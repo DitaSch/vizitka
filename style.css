@@ -1,0 +1,39 @@
+
+h1 {
+    color: black;
+    font-size: 40px;
+}
+
+
+body{
+    background-color:dimgrey;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.foto-dita{
+    width: 400px;
+    border-radius: 20px;
+}
+
+.ikona{
+    text-decoration: none;
+    color:darkgray;
+}
+
+.fb{
+    padding-right: 5px;
+    width: 20px; 
+}
+
+.mail{
+
+    padding-right: 5px;
+}
+
+ul,
+li {
+    list-style-type:none;
+}
+

@@ -6,20 +6,26 @@ h1 {
 
 
 body{
-    background-color:dimgrey;
+    background-color:rgb(64, 78, 67);
     text-align: center;
+    line-height: 1.5;
     font-family: Arial, Helvetica, sans-serif;
+    margin: 0 auto;
+    max-width: 50em;
     
 }
 
 .foto-dita{
     width: 400px;
     border-radius: 20px;
+    filter: grayscale(100%);
+
 }
 
-.ikona{
+.kontakt{
     text-decoration: none;
-    color:darkgray;
+    color:rgb(3, 29, 8);
+    
 }
 
 .fb{
@@ -37,3 +43,7 @@ li {
     list-style-type:none;
 }
 
+.ramecek {
+    background-color: rgb(85, 102, 85);
+    padding: 50px;
+}
